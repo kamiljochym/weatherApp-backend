@@ -21,3 +21,6 @@ Project built with React and SCSS utilising API services from OpenWeatherMap and
 - Search bar allows user to type in location and with each keystroke the autocomplete list updates and is presented to the user.
 - A location is picked from the dropdown list and the weather information updates.
 - Background also changes depending on weather (sunny/rainy) and time of day (day/night).
+
+front-end:
+https://github.com/kamiljochym/weatherApp-frontend
