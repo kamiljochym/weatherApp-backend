@@ -2,7 +2,7 @@
 
 Project built with React and SCSS utilising API services from OpenWeatherMap and Google.
 - Live Demo: [here](http://weather-app-2355.herokuapp.com/)
-
+- front-end: https://github.com/kamiljochym/weatherApp-frontend
 
 
 ## APIs
@@ -22,5 +22,4 @@ Project built with React and SCSS utilising API services from OpenWeatherMap and
 - A location is picked from the dropdown list and the weather information updates.
 - Background also changes depending on weather (sunny/rainy) and time of day (day/night).
 
-front-end:
-https://github.com/kamiljochym/weatherApp-frontend
+
