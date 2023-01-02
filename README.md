@@ -1,7 +1,7 @@
 # Weather App
 
 Project built with React and SCSS utilising API services from OpenWeatherMap and Google.
-- Live Demo: [here](http://weather-app-2355.herokuapp.com/)
+- Live Demo: [here](https://puzzled-plum-antelope.cyclic.app/)
 - front-end: https://github.com/kamiljochym/weatherApp-frontend
 
 
